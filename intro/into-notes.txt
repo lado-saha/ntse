@@ -1,0 +1,16 @@
+Started On: June 18 2024, 10PM
+Ended On: June 19 2024, 12PM
+
+==========================NOTES===========================
+- Knowlegde based AI limitation.
+For example, Cyc failed to understand a story
+about a person named Fred shaving in the morning (Linde, 1992). Its inference
+engine detected an inconsistency in the story: it knew that people do not have
+electrical parts, but because Fred was holding an electric razor, it believed the
+entity “FredWhileShaving” contained electrical parts. It therefore asked whether
+Fred was still a person while he was shaving
+
+- Machine Learning(ML): Is the capability for AI systems to extract patterns from raw data
+- Deep Learning just a type of machine Learning but with a 'deeper' computational graph. Hust more nodes and layers
+- Evolution of naming for DL: Cybernetics(1940s-1960s) ---> Connectionism(1980s-2000s) ---> Deep Learning(2006-...)
+- Give 5000 labeled example to a Supervised DL and it can sucessfully recognize and assist. Give it 10 Million and it will outperform and replace you

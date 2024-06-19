@@ -1,0 +1,5 @@
+Started On: June 19 2024, 11AM
+Ended On: 
+
+==========================NOTES===========================
+- Tensors are multidimensional(>2D) array of numbers. A 3D tensor can be written as 
