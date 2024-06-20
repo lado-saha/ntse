@@ -3,3 +3,5 @@ Ended On:
 
 ==========================NOTES===========================
 - Tensors are multidimensional(>2D) array of numbers. A 3D tensor can be written as 
+- All the notes were uploaded to https://drive.google.com/drive/folders/1ECzcaUeV0ITpRn01oQKSd_zBG7MM_zYh?usp=drive_link
+- Implement 2.12 Example: Principal Components Analysis
