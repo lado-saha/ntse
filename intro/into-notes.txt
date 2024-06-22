@@ -1,5 +1,6 @@
 Started On: June 18 2024, 10PM
 Ended On: June 19 2024, 12PM
+Found At: https://www.deeplearningbook.org/contents/intro.html
 
 ==========================NOTES===========================
 - Knowlegde based AI limitation.
