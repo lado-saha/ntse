@@ -1,0 +1,9 @@
+Started On: June 20 2024, 9:48AM
+Ended On: June 27 2024, 2PM 
+Found At: https://www.deeplearningbook.org/contents/prob.html
+Notes At: https://drive.google.com/file/d/1BtddI7atO5zuLKJmWNYsLNKmvh8p6hwW/view?usp=drive_link
+==========================NOTES===========================
+- The basic intuition behind information theory is that learning that an unlikely
+event has occurred is more informative than learning that a likely event has
+occurred
+- Had to pause to continue my school exams

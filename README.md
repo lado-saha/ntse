@@ -1,5 +1,5 @@
-
 # **Ntsé**: My Deep Learning Journey
+
 ## By LADO SAHA
 
 Welcome to my journey through the fascinating world of AI and deep learning, inspired by the seminal text [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
@@ -18,11 +18,12 @@ Deep learning represents a paradigm shift, leveraging large datasets and neural 
 
 ## Progress
 
-I have just completed the introduction, diving into the probabilistic philosophies that define this new paradigm in software development and problem-solving.
+I have just completed the introduction, diving into the probabilistic and approximative philosophies that define this new paradigm in software development and problem-solving.
 
 - **Part I**
   - **1.1 Linear Algebra**: ✅ Done
-  - **1.2 Probability Theory**: ⏳ In Progress
+  - **1.2 Probability Theory**: ✅⏳Done
+  - **1.3 Numerical Computations**: ⏳ In Progress
 
 ---
 
