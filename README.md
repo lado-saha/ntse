@@ -37,3 +37,10 @@ Follow my progress and insights as I explore each chapter, documenting key conce
 ---
 
 Embark on this intellectual adventure with me as we unlock the potential of AI together!
+
+---
+
+# Participators
+
+- **Djounkeng Eléonor Cassin** [GitHub Repo](https://github.com/Eleonor2004)
+
