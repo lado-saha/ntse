@@ -1,5 +1,10 @@
-Started On: June 27 2024, 17:59AM
-Ended On: 
+Started On: June 27 2024, 17:59 AM
+Ended On: June 28 2024, 4:06 AM
 Found At: https://www.deeplearningbook.org/contents/numerical.html
-Notes At: 
+Notes At: https://drive.google.com/file/d/1CkVne5BESJ-5yJ01Glm7eXRnSp67WH-i/view?usp=drive_link
 ==========================NOTES===========================
+- Always find ways to stabilize your functions before computing them. Stabilizing them involves finding tricks to avoid underflows and overflows
+- Theano (Bergstra et al., 2010; Bastien et al., 2012) is an example of a software package that automatically detects and stabilizes many commonnumerically unstable expressions that arise in the context of deep learning.
+- Main methods to optimise are: Gradient descent, Newtons method, KKT(Karush-Khun-Tucker) method for functions with constraints(Uses the Generalized Lagrangian )
+- min(f(x)) = max(-f(x))
+- Rest of notes in the Drive
