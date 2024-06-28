@@ -40,7 +40,7 @@ Embark on this intellectual adventure with me as we unlock the potential of AI t
 
 ---
 
-# Participators
+# Collaborators
 
 - **Djounkeng Eléonor Cassin** [GitHub Repo](https://github.com/Eleonor2004)
 
