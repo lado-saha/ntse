@@ -1,6 +1,7 @@
 Started On: June 29 2024, 00:33 AM
-Ended On: 
+Ended On: July 6 2024, 7:00 PM
 Found At: https://www.deeplearningbook.org/contents/ml.html
-Notes At: 
+Notes At: https://drive.google.com/file/d/1GTQNWlYKdNGUnzZi75lT6qmYjhhF1pto/view?usp=drivesdk
 ==========================NOTES===========================
 - Class of tasks T, experience E, performance measure P 
+- Dataset + Cost function + Model + Optimization Procedue = ML Algorithm 
