@@ -25,10 +25,13 @@ I have just completed the introduction, diving into the probabilistic and approx
   - **1.3 Probability Theory**: ✅Done
   - **1.4 Numerical Computations**: ✅Done
   - **1.5 Machine Learning Basics**: ✅Done
-  - **Exercises**: ⏳ In Progress
+  - **Exercises**: ✅Done
 
 - **Part II**
-  <!-- - **1.5 Machine Learning Basics**: ⏳ In Progress -->
+  - **1.5 Deep Foward Networks**: ✅Done
+  - **1.6 Regularization for Deep learning**: ✅Done
+  - **1.6 Optimization for Training DeepModels** ✅Done
+  - **Exercises on d2l.ai** ⏳ In Progress
 
 ---
 
