@@ -21,18 +21,18 @@ Deep learning represents a paradigm shift, leveraging large datasets and neural 
 I have just completed the introduction, diving into the probabilistic and approximative philosophies that define this new paradigm in software development and problem-solving.
 
 - **Part II**
-  - **1.2 Linear Algebra**: ✅ Done
-  - **1.3 Probability Theory**: ✅Done
-  - **1.4 Numerical Computations**: ✅Done
-  - **1.5 Machine Learning Basics**: ✅Done
+  - **2 Linear Algebra**: ✅ Done
+  - **3 Probability Theory**: ✅Done
+  - **4 Numerical Computations**: ✅Done
+  - **5 Machine Learning Basics**: ✅Done
   - **Exercises**: ✅Done
 
 - **Part II**
-  - **1.5 Deep Foward Networks**: ✅Done
-  - **1.6 Regularization for Deep learning**: ✅Done
-  - **1.6 Optimization for Training DeepModels** ✅Done
-  - **Exercises on d2l.ai** ⏳ In Progress
-
+  - **6 Deep Foward Networks**: ✅Done
+  - **7 Regularization for Deep learning**: ✅Done
+  - **8 Optimization for Training DeepModels** ✅Done
+  - **Exercises on d2l.ai** (From chapter 1 - 6) ✅Done
+  - **9 Convulational Networks** ⏳ In Progress.
 ---
 
 ## Notes and Updates
