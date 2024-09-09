@@ -32,7 +32,9 @@ I have just completed the introduction, diving into the probabilistic and approx
   - **7 Regularization for Deep learning**: ✅Done
   - **8 Optimization for Training DeepModels** ✅Done
   - **Exercises on d2l.ai** (From chapter 1 - 6) ✅Done
-  - **9 Convulational Networks** ⏳ In Progress.
+  - **9 Convulational Networks**  ✅Done 
+  - **Exercises on d2l.ai** (from chapter 7 - ...) ⏳ In Progress.
+
 ---
 
 ## Notes and Updates
@@ -49,4 +51,4 @@ Embark on this intellectual adventure with me as we unlock the potential of AI t
 
 ## Collaborators
 
-- **Djounkeng Eléonor Cassin** [GitHub Repo](https://github.com/Eleonor2004)
+<!-- - **Djounkeng Eléonor Cassin** [GitHub Repo](https://github.com/Eleonor2004) -->
