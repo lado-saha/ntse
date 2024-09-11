@@ -33,7 +33,8 @@ I have just completed the introduction, diving into the probabilistic and approx
   - **8 Optimization for Training DeepModels** ✅Done
   - **Exercises on d2l.ai** (From chapter 1 - 6) ✅Done
   - **9 Convulational Networks**  ✅Done 
-  - **Exercises on d2l.ai** (from chapter 7 - ...) ⏳ In Progress.
+  - **Exercises on d2l.ai** (from chapter 7 - ...) ✅Done
+  - **10 Recurrent Neural Networks** ⏳ In Progress.
 
 ---
 
