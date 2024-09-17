@@ -34,10 +34,15 @@ I have just completed the introduction, diving into the probabilistic and approx
   - **Exercises on d2l.ai** (From chapter 1 - 6) ✅Done
   - **9 Convulational Networks**  ✅Done 
   - **Exercises on d2l.ai** (from chapter 7 - ...) ✅Done
-  - **10 Recurrent Neural Networks** ⏳ In Progress.
-
+  - **10 Recurrent Neural Networks** ✅Done .
+  - **11 Practical Methodology** ✅Done 
 ---
+##  ✅ ⏳ Objectif attained 
 
+## Practice using d2l.ai
+The theory is sound and ok in my head which means its time to put that in practice while also learning the new Transformer and Attention Mechanisms which were not found in the Deeplearningbook
+ 
+---
 ## Notes and Updates
 
 All images and physical notes are available at **[Ntsé Google Drive](https://drive.google.com/drive/folders/1pnCg3R5GiPWFaY6WNpoUsNZp-WSnAI1n?usp=sharing)**.
@@ -51,5 +56,3 @@ Embark on this intellectual adventure with me as we unlock the potential of AI t
 ---
 
 ## Collaborators
-
-<!-- - **Djounkeng Eléonor Cassin** [GitHub Repo](https://github.com/Eleonor2004) -->
