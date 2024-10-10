@@ -1,0 +1,6 @@
+- Fully Connect Layers flatten the structure inroder to learn them and there by assuming that theres no information inherent tot the structure of the data
+- In some cases like 2d images made up of pixels, the structure and relative position of each pixel carries alot of information which when learned could help and which will be destroyed if we flatten the the pixel 2d space into a single 1d space 
+
+Motivation for CNN in image recognition with the main constraint by limiting the number of parameters to learn in the real world
+1) invariance: We 
+2) Locality: We believe we should not look very far away fro mthe location of (i,j) inorder to glean relevant information and so we fix a window size.
