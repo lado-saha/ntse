@@ -33,15 +33,18 @@ I have just completed the introduction, diving into the probabilistic and approx
   - **8 Optimization for Training DeepModels** ✅Done
   - **Exercises on d2l.ai** (From chapter 1 - 6) ✅Done
   - **9 Convulational Networks**  ✅Done 
-  - **Exercises on d2l.ai** (from chapter 7 - ...) ✅Done
+  - **Exercises on d2l.ai** (from chapter 7 - 8) ✅Done
   - **10 Recurrent Neural Networks** ✅Done .
+  - **Exercises on d2l.ai** (from chapter 9 - 10) ✅Done 
   - **11 Practical Methodology** ✅Done 
 ---
 ##  ✅ ⏳ Objectif attained 
 
 ## Practice using d2l.ai
 The theory is sound and ok in my head which means its time to put that in practice while also learning the new Transformer and Attention Mechanisms which were not found in the Deeplearningbook
- 
+
+**Finally time to learn Attention Mechanisms from d2l.ai** (Oct 17 2024)
+
 ---
 ## Notes and Updates
 
